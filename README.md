@@ -24,8 +24,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -46,7 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Course-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Battleship Game
+- Analyzing my network 
