@@ -4,7 +4,7 @@ Hello, I'm Monserrat
 
 I am a Computer Science graduate with a keen interest in cybersecurity, currently advancing my skills through a specialized course by Correlation One.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Analyst role. 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
