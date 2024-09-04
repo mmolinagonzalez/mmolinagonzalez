@@ -2,7 +2,7 @@ Hello, I'm Monserrat
 
 <a href="https://www.linkedin.com/in/monserrat-molina-gonzalez-761a3531a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Computer Science graduate with a keen interest in cybersecurity, currently advancing my skills through a specialized course by Correlation One."
+I am a Computer Science graduate with a keen interest in cybersecurity, currently advancing my skills through a specialized course by Correlation One.
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Analyst.
 
